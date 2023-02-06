@@ -1,0 +1,429 @@
+[
+    {
+        "OVH" : {
+            "MX Record" : "mail.ovh.net",
+            "NS Record" : "ovh.net",
+            "SOA Record" : "tech.ovh.net",
+            "TXT Record" : "ovh.net"
+        },
+
+        "Google" : {
+            "MX Record" : "google.com",
+            "NS Record" : "google.com",
+            "SOA Record" : "dns-admin.google.com",
+            "TXT Record" : "google-site-verification"
+        },
+
+        "Google Workspace" : {
+            "MX Record" : "Nan",
+            "NS Record" : "googledomains.com",
+            "SOA Record" : "dns-admin.google.com",
+            "TXT Record" : "_spf.google.com"
+
+        },
+
+        "Google Workspace ." : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "_.spf.google.com"
+        },
+
+        "Amazon" : {
+            "MX Record" : "amazon.com",
+            "NS Record" : "awsdns",
+            "SOA Record" : "amazon.com",
+            "TXT Record" : "amazonses.com"
+        },
+
+        "Amazon 2" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "root.amazon.com",
+            "TXT Record" : "amazon.com"
+        },
+        
+        "Microsoft Outlook" : {
+            "MX Record" : "outlook.com",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "protection.outlook.com"
+        },
+
+        "Microsoft Azure" : {
+            "MX Record" : "Nan",
+            "NS Record" : "azure-dns",
+            "SOA Record" : "microsoft.com",
+            "TXT Record" : "Nan"
+        },
+        
+        "Apple" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "apple-domain-verification"
+        },
+
+        "Facebook" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "facebook-domain-verification"
+        },
+
+        "Cisco" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "cisco-ci-domain-verification"
+        },
+
+        "Gandi" : {
+            "MX Record" : "gandi.net",
+            "NS Record" : "gandi.net",
+            "SOA Record" : "hostmaster.gandi.net",
+            "TXT Record" : "Nan"
+        },
+
+        "CloudFlare" : {
+            "MX Record" : "Nan",
+            "NS Record" : "cloudflare.com",
+            "SOA Record" : "cloudflare.com",
+            "TXT Record" : "Nan"
+        },
+
+        "Worldnic" : {
+            "MX Record" : "Nan",
+            "NS Record" : "worldnic.com",
+            "SOA Record" : "worldnic.com",
+            "TXT Record" : "Nan"
+        },
+
+        "Aqua Ray" : {
+            "MX Record" : "Nan",
+            "NS Record" : "aquaray.com",
+            "SOA Record" : "aquaray.com",
+            "TXT Record" : "Nan"
+        },
+
+        "1Password" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "1password-site-verification"
+        },
+
+        "Salesforce" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "salesforce.com"
+        },
+
+        "Hubspot domain acces" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "hubspot-domain-verification"
+        },
+
+        "Hubspot mail" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "hubspotemail.net"
+        },
+
+        "Docusign" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "docusign"
+        },
+
+        "ahrefs" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "ahrefs-site-verification"
+        },
+
+        "status page" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "status-page-domain-verification"
+        },
+
+        "Detectify" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "detectify-verification"
+        },
+
+        "Atlassian" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "atlassian-domain-verification"
+        },
+
+        "Mailgun" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "mailgun.org"
+        },
+
+        "Pardot" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "pardot"
+        },
+
+        "Zendesk" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "zendesk.com"
+        },
+
+        "Active trail" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "activetrail.com"
+        },
+
+        "Mail Jet" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "mailjet.com"
+        },
+
+        "Mandrill" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "mandrillapp.com"
+        },
+
+        "Digicert" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "digicert_validation"
+        },
+
+        "Trustpilot" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "Trustpilotservice.com"
+        },
+
+        "Sendgrid" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "sendgrid.net"
+        },
+
+        "Onetrust" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "onetrust-domain-verification"
+        },
+
+        "Sendinblue" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "Sendinblue"
+        },
+
+        "Lessonly" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "lessonly.com"
+        },
+
+        "Logmein" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "logmein-verification-code"
+        },
+
+        "Yandex" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "yandex-verification"
+        },
+
+        "Docker" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "docker-verification"
+        },
+
+        "Team viewer" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "teamviewer-sso-verification"
+        },
+
+        "Miro" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "miro-verification"
+        },
+
+        "Flowmailer" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "flowmailer.com"
+        },
+
+        "Zuora" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "zuora.com"
+        },
+
+        "Adobe" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "adobe-sign-verification"
+        },
+
+        "Adopb Idp" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "adobe-idp-site-verification"
+        },
+
+        "Shopify" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "shops.shopify.com"
+        },
+
+        "Segment-site" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "segment-site-verification"
+        },
+
+        "Stripe" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "stripe-verification"
+        },
+
+        "Dynect" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "dynect.net"
+        },
+
+        "GlobalSign" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "globalsign-domain-verification"
+        },
+
+        "Sparkpost" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "sparkpostmail.com"
+        },
+
+        "Help Scout" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "heplscoutemail.com"
+        },
+
+        "Workplace" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "workplace-domain-verification"
+        },
+
+        "Arsen" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "arsen-verification"
+        },
+
+        "Mgverify" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "mgverify"
+        },
+
+        "Wrike" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "wrike-verification"
+        },
+
+        "Dropbox" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "dropbox-domain-verification"
+        },
+
+        "Loader.io" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "loaderio"
+        },
+
+        "Aliyun" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "aliyun-site-verification"
+        },
+
+        "Webflow" : {
+            "MX Record" : "Nan",
+            "NS Record" : "Nan",
+            "SOA Record" : "Nan",
+            "TXT Record" : "webflow.com"
+        }
+    
+    },
+
+    {
+        "request_keys" : ["MX Record", "NS Record", "SOA Record", "TXT Record"]
+    }
+]
